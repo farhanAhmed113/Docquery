@@ -1,0 +1,14 @@
+# Maven
+backend/target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Env
+.env
+
+# OS
+.DS_Store
