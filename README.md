@@ -145,7 +145,7 @@ This starts the Spring Boot app, MySQL, and Redis together in one command.
 
 The application will be available at:
 
-- **App:** <http://localhost:8080>
+- **App:** <https://docquery-0sut.onrender.com>
 
 Sign up, upload a PDF, and start asking questions.
 
@@ -311,7 +311,7 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
 4. Deploy the Docker image to your platform of choice
 5. Point `DB_HOST`, `REDIS_HOST`, and related variables at your production services
 
-🔗 **Live demo:** [add your deployed URL here]
+🔗 **Live demo:** [https://docquery-0sut.onrender.com]
 
 ---
 
